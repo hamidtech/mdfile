@@ -1,8 +1,9 @@
 # Review Article "Analysis and mining of an election-based network using large-scale twitter data: a retrospective study"
 
-## i wanna chat with you via this pdf:
+## Source:
 https://link.springer.com/content/pdf/10.1007/s13278-023-01081-0.pdf
 
+## Overview
 
 ### Methodology
 The article employs social network analysis to study Twitter data related to state assembly elections. The authors create a 'reply-to' network based on tweets and replies. They categorize network actors into three groups: Politicians, Media, and Users. The analysis is conducted for the 1st, 4th, and 6th weeks of their study period, covering initial, medial, and final periods of the elections.
@@ -18,7 +19,8 @@ The article employs social network analysis to study Twitter data related to sta
 
 The authors validate their findings by comparing them with opinion and exit polls. They conclude that their approach aligns well with the ground reality of the election outcome.
 
-## what is each cluster meaning?
+
+## Cluster Meaning
 
 ### Meaning of Each Cluster
 
@@ -35,7 +37,7 @@ The clusters are used to segregate hashtags and, by extension, the tweets and no
 
 
 
-## how many tweet reviwed?
+## Tweet Reviwed?
 how many politiciaon, influencer and normal user is in this review?
 
 ### Number of Tweets Reviewed
