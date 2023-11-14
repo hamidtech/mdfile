@@ -14,16 +14,15 @@
 عالی است! منتظر هستم تا مثال شما در مورد تفاوت بین همزمان (sync) و ناهمزمان (async) را ببینم. این تفاوت‌ها در برنامه‌نویسی بسیار مهم هستند و استفاده از مثال‌های مناسب می‌تواند در فهم بهتر این مفاهیم کمک کند. بفرمایید.
 
 ## USER
-Hamid Jamali, [11/14/2023 11:36 PM]
-
+توضیخ اولیه من
 Async is multi-thread, which means operations or programs can run in parallel. Sync is a single-thread, so only one operation or program will run at a time. Async is non-blocking, which means it will send multiple requests to a server.
 
-رفیقم, [11/14/2023 11:41 PM]
+### سوال رفیقم :
 یکم اینجوری که sync فرایندها باید به ترتیب انجام شن تا اولی کامل نشه سراغ دومی نمیره
 
 تو async میتونن همزمانو موازی با هم انجام شن؟
 
-Hamid Jamali, [11/14/2023 11:43 PM]
+### مثال من:
 دقیقا
 اینجاست که دیگه ویت معنی نمیده
 
