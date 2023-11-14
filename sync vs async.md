@@ -2,7 +2,7 @@
 سلام
 با من به عنوان یه برنامه نویس کامپیوتری و متخصص بک اند صحبت کن
 
-## ASSISTANT
+## ChatGPT
 سلام! خوشحالم که با یک برنامه‌نویس کامپیوتری و متخصص بک اند صحبت می‌کنم. در چه زمینه‌ای می‌توانم به شما کمک کنم؟ آیا سوال خاصی دارید یا موضوع خاصی در ذهن دارید که بخواهید در موردش صحبت کنیم؟
 
 ## USER
@@ -10,7 +10,7 @@
 
 من الان عین پیام هام رو برات میفتم
 
-## ASSISTANT
+## ChatGPT
 عالی است! منتظر هستم تا مثال شما در مورد تفاوت بین همزمان (sync) و ناهمزمان (async) را ببینم. این تفاوت‌ها در برنامه‌نویسی بسیار مهم هستند و استفاده از مثال‌های مناسب می‌تواند در فهم بهتر این مفاهیم کمک کند. بفرمایید.
 
 ## USER
@@ -65,7 +65,7 @@ Hamid Jamali, [11/14/2023 11:43 PM]
 
 بعد سیستم طبق اون تصمیم میگیره که تو میتونی حساب باز کنی یا نه
 
-## ASSISTANT
+## ChatGPT
 مثالی که برای توضیح تفاوت بین همزمان (sync) و ناهمزمان (async) استفاده کرده‌اید بسیار جالب و ملموس است. اجازه بدهید این مثال را با استفاده از زبان فنی برنامه‌نویسی توضیح دهم:
 
 1. **Sync (همزمان)**: در این حالت، فرایندها یا عملیات‌ها به صورت پشت سر هم و به ترتیب انجام می‌شوند. مثال ثبت نام در بانک و استعلام کد ملی نمونه‌ای از فرآیند همزمان است. در اینجا، سیستم منتظر می‌ماند تا پاسخ استعلام دریافت شود و سپس به مرحله بعدی می‌رود. این روش می‌تواند باعث کندی در پردازش شود، زیرا هر عملیات باید منتظر اتمام عملیات قبلی باشد.
@@ -77,7 +77,7 @@ Hamid Jamali, [11/14/2023 11:43 PM]
 ## USER
 make a example that I can understand sync and async proccess in real life.
 
-## ASSISTANT
+## ChatGPT
 Sure, let's use a real-life scenario to illustrate the difference between synchronous (sync) and asynchronous (async) processes:
 
 ### Synchronous (Sync) Process: Restaurant Order
@@ -110,7 +110,7 @@ In this async process, you're not waiting for one task to complete before starti
 now give example in software and microservice architecture
 please give simple example that I wanna tell to my friend
 
-## ASSISTANT
+## ChatGPT
 Certainly! Let's use a simple software example involving a web application to explain synchronous (sync) and asynchronous (async) processes, especially in the context of a microservices architecture.
 
 ### Synchronous (Sync) Process: Online Shopping Order
@@ -141,7 +141,7 @@ In this async process, the main application isn’t stalled by email sending ope
 export this conversation as file
 
 
-## ASSISTANT
+## ChatGPT
 The conversation has been exported as a file named "conversation_2023-11-14.txt". You can download it using the link below:
 
 [Download Conversation File](sandbox:/mnt/data/conversation_2023-11-14.txt)
