@@ -4,8 +4,8 @@ Welcome to my repository where I will be sharing a variety of public documents. 
 
 ## Contents
 
-- [Indian Election ChatGPT ]([link-to-document-1](https://github.com/hamidtech/mdfile/blob/main/India%20Election%20ChatGPT.md))
-- [Sync vs async]([link-to-document-2](https://github.com/hamidtech/mdfile/blob/main/sync%20vs%20async.md))
+- [Indian Election ChatGPT ](https://github.com/hamidtech/mdfile/blob/main/India%20Election%20ChatGPT.md)
+- [Sync vs async](https://github.com/hamidtech/mdfile/blob/main/sync%20vs%20async.md)
 
 ## How to Use
 
